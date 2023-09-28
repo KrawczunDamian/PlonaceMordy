@@ -45,3 +45,9 @@ To prawdopodobnie wzięte z ulicy losowe postaci, pokaleczone, obsypywane solą.
 
 Natrafiamy na pokokój z sarkofakiem z czaszkami i koścmi humanoidów. Oświetlają tą kryptę 4 pochodnie. Jest to krypta Merkula ze stosem zdobyczy. Kamień raczej nie był poruszany od dawna. 
 
+Następne pomieszczenie to sypialnia akolitów, w której znajduje się 4 wyznawców. Decydujemy się zabić ich w śnie.
+
+W tym czasie z ostatniego korytarza drzwi się otwierają i wybiega z nich przerażona starsza kobieta, ranna, cała we krwi, wzywająca pomocy.
+
+Przebrany za akolitę Timwor sprawdza ten pokój i znajduje tam 2 nagich mężczyzn kąpiących się w krwi. Próbuje ich przegadać, ale Ci rzucają się na niego, więc pomagamy mu się z nimi uporać.
+TBC

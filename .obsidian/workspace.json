@@ -251,33 +251,6 @@
             }
           },
           {
-            "id": "5f17941b1f413814",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatki z sesji/3sesja 6 września 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e5fd7e4ebb41d270",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -431,7 +404,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki z sesji/3sesja 6 września 2023.md",
+                "file": "Notatki z sesji/4sesja 27 września 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +430,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki z sesji/3sesja 6 września 2023.md",
+                "file": "Notatki z sesji/4sesja 27 września 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -498,7 +471,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki z sesji/3sesja 6 września 2023.md"
+                "file": "Notatki z sesji/4sesja 27 września 2023.md"
               }
             }
           },
@@ -568,7 +541,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki z sesji/3sesja 6 września 2023.md"
+                "file": "Notatki z sesji/4sesja 27 września 2023.md"
               }
             }
           },
@@ -645,28 +618,28 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "5f17941b1f413814",
+  "active": "e5fd7e4ebb41d270",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Postaci/Avery.md",
+    "Postaci/Tarina.md",
+    "Postaci/Rivellan.md",
+    "Postaci/Kochanienka.md",
+    "Postaci/Keenie.md",
+    "Postaci/Kapitan Zodge.md",
+    "Postaci/Beenie.md",
     "Notatki z sesji/3sesja 6 września 2023.md",
+    "Untitled.md",
     "Notatki z sesji/4sesja 27 września 2023.md",
     "Questy/Aktywne/Quest Martwa Trójca.md",
     "Płonące Pięści.md",
     "Karty postaci/Plejdosid.md",
     "Lokacje/Baldur's Gate/Sklep z fajerwerkami/Sklep z fajerwerkami.md",
-    "Postaci/Avery.md",
     "Lokacje/Baldur's Gate/Łaźnia/Łaźnia.md",
     "Lokacje/Baldur's Gate/Sklep z fajerwerkami",
     "Lokacje/Baldur's Gate/Magiczne różności/Magiczne różności.md",
     "Lokacje/Baldur's Gate/Posterunek Płonących Pięści/Posterunek Płonących Pięści.md",
     "Lokacje/Baldur's Gate/Brama bazyliszka.md",
     "Organizacje/Płonące Pięści.md",
-    "Postaci/Beenie.md",
-    "Postaci/Kapitan Zodge.md",
-    "Postaci/Keenie.md",
-    "Postaci/Tarina.md",
-    "Postaci/Kochanienka.md",
-    "Postaci/Rivellan.md",
     "Przedmioty/Eliksiry/Potka życia.md",
     "Przedmioty/Eliksiry",
     "Wydarzenia/Wydarzenia.md",
