@@ -254,8 +254,14 @@
             "id": "5f17941b1f413814",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -582,6 +588,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "2a8d312b3f5e83fc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 8
@@ -611,8 +627,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5,
-    "collapsed": true
+    "width": 425.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -632,8 +647,9 @@
   },
   "active": "5f17941b1f413814",
   "lastOpenFiles": [
-    "Notatki z sesji/4sesja 27 września 2023.md",
+    "Untitled.md",
     "Notatki z sesji/3sesja 6 września 2023.md",
+    "Notatki z sesji/4sesja 27 września 2023.md",
     "Questy/Aktywne/Quest Martwa Trójca.md",
     "Płonące Pięści.md",
     "Karty postaci/Plejdosid.md",
@@ -661,7 +677,6 @@
     "zz_Templates/2_Mechanics Gallery/Characters/Template - Background.md",
     "zz_Templates/2_Mechanics Gallery/Characters/Template - Archetype_Domain_Etc..md",
     "zz_Templates/2_Mechanics Gallery/Characters/Template - General Characters Article.md",
-    "zz_Templates/2_Mechanics Gallery/Characters/Template - Class.md",
     "Karty postaci",
     "Notatki z sesji",
     "Questy/Aktywne",
