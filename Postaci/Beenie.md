@@ -1,0 +1,2 @@
+Współpracownik [[Keenie]]. Chciał rozprowadzać narkotyki i zapronował nam udział w tym przedsięwzięciu w zamian za otwarcie skrzynki z łupami. Do skrzynki dobraliśmy się jednak sami.
+#goblin #GildiaGildia #BaldursGate 
