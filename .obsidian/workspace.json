@@ -18,6 +18,84 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Template - Location",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Places/Template - Location.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":14}"
+                },
+                {
+                  "title": "Template - Adventure Area",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Places/Template - Adventure Area.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Thing List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Things/Template - Thing List.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Object Collection",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Things/Template - Object Collection.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Named Equipment",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Things/Template - Named Equipment.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Inhabitant",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Things/Template - Inhabitant.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - GM Synopsis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Sources/Template - GM Synopsis.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Player Synopsis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Sources/Template - Player Synopsis.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Story Source",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Sources/Template - Story Source.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - GM Synopsis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Sources/Template - GM Synopsis.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Player Synopsis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Sources/Template - Player Synopsis.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - GM Synopsis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Sources/Template - GM Synopsis.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Individual",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Individual.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":31}"
+                },
+                {
                   "title": "Template - Spell",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Abilities/Template - Spell.md\",\"mode\":\"source\",\"source\":false}}",
@@ -170,11 +248,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
-                "mode": "source",
-                "source": false
+                "file": "zz_Templates/1_Story World Templates/Things/Template - Thing List.md",
+                "staged": false
               }
             }
           }
@@ -280,7 +357,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +382,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,9 +421,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md"
-              }
+              "state": {}
             }
           },
           {
@@ -416,9 +489,7 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md"
-              }
+              "state": {}
             }
           },
           {
@@ -505,6 +576,16 @@
   },
   "active": "eb7f7157cf81ebbe",
   "lastOpenFiles": [
+    "zz_Templates/1_Story World Templates/Places/Template - Location.md",
+    "zz_Templates/1_Story World Templates/Places/Template - Adventure Area.md",
+    "zz_Templates/1_Story World Templates/Things/Template - Thing List.md",
+    "zz_Templates/1_Story World Templates/Things/Template - Object Collection.md",
+    "zz_Templates/1_Story World Templates/Things/Template - Named Equipment.md",
+    "zz_Templates/1_Story World Templates/Things/Template - Inhabitant.md",
+    "zz_Templates/1_Story World Templates/Sources/Template - GM Synopsis.md",
+    "zz_Templates/1_Story World Templates/Sources/Template - Player Synopsis.md",
+    "zz_Templates/1_Story World Templates/Sources/Template - Story Source.md",
+    "zz_Templates/1_Story World Templates/People/Template - Individual.md",
     "zz_Templates/2_Mechanics Gallery/Abilities/Template - Spell.md",
     "zz_Templates/2_Mechanics Gallery/Abilities/Template - Skill.md",
     "zz_Templates/2_Mechanics Gallery/Abilities/Template - General Abilities Article.md",
@@ -521,18 +602,8 @@
     "zz_Templates/2_Mechanics Gallery/Equipment/Template - Mundane Item.md",
     "zz_Templates/2_Mechanics Gallery/Equipment/Template - Mundane Armor_Shield.md",
     "Questy/Aktywne/Quest Martwa Trójca.md",
-    "Wydarzenia/Wydarzenia.md",
-    "Karty postaci/Plejdosid.md",
-    "zz_Templates/3_Markdown/REGEX - Helpful Code.md",
     "zz_Foty",
     "z_PDFy/Populacja_Ras_R4.pdf",
-    "zz_Templates/3_Markdown/Insert Rollable Table/Insert Rollable Table.md",
-    "zz_Templates/3_Markdown/Folder Note Content List.md",
-    "zz_Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out Boxes (Admonition).md",
-    "zz_Templates/2_Mechanics Gallery/2_Mechanics Gallery.md",
-    "zz_Templates/2_Mechanics Gallery/Mechanics Gallery.md",
-    "Postaci/Kapitan Zodge.md",
-    "z_Mechanika/Zasady Gry.md",
     "Lokacje/Baldur's Gate/Sklep z fajerwerkami",
     "Przedmioty/Eliksiry",
     "Przedmioty",
