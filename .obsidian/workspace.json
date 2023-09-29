@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d48974e6bfe0c262",
+        "id": "d6111df13b20195b",
         "type": "tabs",
         "children": [
           {
-            "id": "eb7f7157cf81ebbe",
+            "id": "d82457e6f26a206a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,239 +18,29 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Template - Location",
+                  "title": "Insert Encounter (Initiative Tracker)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Places/Template - Location.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":14}"
-                },
-                {
-                  "title": "Template - Adventure Area",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Places/Template - Adventure Area.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Thing List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Things/Template - Thing List.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Object Collection",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Things/Template - Object Collection.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Named Equipment",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Things/Template - Named Equipment.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Inhabitant",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Things/Template - Inhabitant.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - GM Synopsis",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Sources/Template - GM Synopsis.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Player Synopsis",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Sources/Template - Player Synopsis.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Story Source",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Sources/Template - Story Source.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - GM Synopsis",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Sources/Template - GM Synopsis.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Player Synopsis",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Sources/Template - Player Synopsis.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - GM Synopsis",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/Sources/Template - GM Synopsis.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Individual",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Individual.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":31}"
-                },
-                {
-                  "title": "Template - Spell",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Abilities/Template - Spell.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":21}"
-                },
-                {
-                  "title": "Template - Skill",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Abilities/Template - Skill.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - General Abilities Article",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Abilities/Template - General Abilities Article.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Feat",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Abilities/Template - Feat.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Archetype_Domain_Etc.",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Characters/Template - Archetype_Domain_Etc..md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Race",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Characters/Template - Race.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - General Characters Article",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Characters/Template - General Characters Article.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Class",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Characters/Template - Class.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Background",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Characters/Template - Background.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - General Equipment Article",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Equipment/Template - General Equipment Article.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Magic Item",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Equipment/Template - Magic Item.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Vehicle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Equipment/Template - Vehicle.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Potka życia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Przedmioty/Eliksiry/Potka życia.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":23},\"to\":{\"line\":22,\"ch\":23}},\"scroll\":14}"
-                },
-                {
-                  "title": "Template - Mundane Item",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Equipment/Template - Mundane Item.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Mundane Armor_Shield",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Equipment/Template - Mundane Armor_Shield.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
-                },
-                {
-                  "title": "Potka życia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Przedmioty/Eliksiry/Potka życia.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":8},\"to\":{\"line\":16,\"ch\":8}}}"
-                },
-                {
-                  "title": "Quest Martwa Trójca",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Questy/Aktywne/Quest Martwa Trójca.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/3_Markdown/Insert Encounter (Initiative Tracker).md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Wydarzenia",
+                  "title": "Insert Customer Monster (TTRPG Statblock)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Wydarzenia/Wydarzenia.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/3_Markdown/Insert Customer Monster (TTRPG Statblock).md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Plejdosid",
+                  "title": "Insert Custom Encounter (Initiative Tracker)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Plejdosid.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "REGEX - Helpful Code",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/3_Markdown/REGEX - Helpful Code.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Insert Rollable Table",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/3_Markdown/Insert Rollable Table/Insert Rollable Table.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Folder Note Content List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/3_Markdown/Folder Note Content List.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Call Out Boxes (Admonition)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out Boxes (Admonition).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":34.00568900126422}"
-                },
-                {
-                  "title": "Template - Feat",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Abilities/Template - Feat.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
-                },
-                {
-                  "title": "Kapitan Zodge",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Kapitan Zodge.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":38.285714285714285}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/3_Markdown/Insert Custom Encounter (Initiative Tracker).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "zz_Templates/1_Story World Templates/Things/Template - Thing List.md",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               }
             }
@@ -574,8 +364,11 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "eb7f7157cf81ebbe",
+  "active": "d82457e6f26a206a",
   "lastOpenFiles": [
+    "zz_Templates/3_Markdown/Insert Encounter (Initiative Tracker).md",
+    "zz_Templates/3_Markdown/Insert Customer Monster (TTRPG Statblock).md",
+    "zz_Templates/3_Markdown/Insert Custom Encounter (Initiative Tracker).md",
     "zz_Templates/1_Story World Templates/Places/Template - Location.md",
     "zz_Templates/1_Story World Templates/Places/Template - Adventure Area.md",
     "zz_Templates/1_Story World Templates/Things/Template - Thing List.md",
@@ -599,9 +392,6 @@
     "zz_Templates/2_Mechanics Gallery/Equipment/Template - Magic Item.md",
     "zz_Templates/2_Mechanics Gallery/Equipment/Template - Vehicle.md",
     "Przedmioty/Eliksiry/Potka życia.md",
-    "zz_Templates/2_Mechanics Gallery/Equipment/Template - Mundane Item.md",
-    "zz_Templates/2_Mechanics Gallery/Equipment/Template - Mundane Armor_Shield.md",
-    "Questy/Aktywne/Quest Martwa Trójca.md",
     "zz_Foty",
     "z_PDFy/Populacja_Ras_R4.pdf",
     "Lokacje/Baldur's Gate/Sklep z fajerwerkami",
