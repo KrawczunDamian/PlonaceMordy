@@ -5,7 +5,7 @@ tags:
   - Category/Individual
 Przysposobienie: Neutralne Złowrogie Przyjazne
 Płeć: Mężczyzna Kobieta Inne
-Rasa: Aoq Delocjanin Elf Oświecony Elf Pierworodny Felpurr Goblin Ird Krasonlud Ladończyk Ork Raawjańczyk Skaven Xerabin Yordl Inne
+Rasa: 
 Wiek: Dziecko Nastolatek Dorosły Starzec
 NastawienieDoNas: Wrogi Neutralny Sojusznik Przyjaciel
 Stan: Zdrowy Ranny Umierający Zaginiony Uznany za zmarłego Chory Zombie

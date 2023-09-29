@@ -18,6 +18,84 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Template - Spell",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Abilities/Template - Spell.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":21}"
+                },
+                {
+                  "title": "Template - Skill",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Abilities/Template - Skill.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - General Abilities Article",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Abilities/Template - General Abilities Article.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Feat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Abilities/Template - Feat.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Archetype_Domain_Etc.",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Characters/Template - Archetype_Domain_Etc..md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Race",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Characters/Template - Race.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - General Characters Article",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Characters/Template - General Characters Article.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Class",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Characters/Template - Class.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Background",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Characters/Template - Background.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - General Equipment Article",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Equipment/Template - General Equipment Article.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Magic Item",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Equipment/Template - Magic Item.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
+                },
+                {
+                  "title": "Template - Vehicle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Equipment/Template - Vehicle.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Potka życia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Przedmioty/Eliksiry/Potka życia.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":23},\"to\":{\"line\":22,\"ch\":23}},\"scroll\":14}"
+                },
+                {
                   "title": "Template - Mundane Item",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Equipment/Template - Mundane Item.md\",\"mode\":\"source\",\"source\":false}}",
@@ -94,7 +172,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Przedmioty/Eliksiry/Potka życia.md",
+                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Przedmioty/Eliksiry/Potka życia.md",
+                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Przedmioty/Eliksiry/Potka życia.md",
+                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Przedmioty/Eliksiry/Potka życia.md"
+                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md"
               }
             }
           },
@@ -339,7 +417,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Przedmioty/Eliksiry/Potka życia.md"
+                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md"
               }
             }
           },
@@ -427,9 +505,21 @@
   },
   "active": "eb7f7157cf81ebbe",
   "lastOpenFiles": [
+    "zz_Templates/2_Mechanics Gallery/Abilities/Template - Spell.md",
+    "zz_Templates/2_Mechanics Gallery/Abilities/Template - Skill.md",
+    "zz_Templates/2_Mechanics Gallery/Abilities/Template - General Abilities Article.md",
+    "zz_Templates/2_Mechanics Gallery/Abilities/Template - Feat.md",
+    "zz_Templates/2_Mechanics Gallery/Characters/Template - Archetype_Domain_Etc..md",
+    "zz_Templates/2_Mechanics Gallery/Characters/Template - Race.md",
+    "zz_Templates/2_Mechanics Gallery/Characters/Template - General Characters Article.md",
+    "zz_Templates/2_Mechanics Gallery/Characters/Template - Class.md",
+    "zz_Templates/2_Mechanics Gallery/Characters/Template - Background.md",
+    "zz_Templates/2_Mechanics Gallery/Equipment/Template - General Equipment Article.md",
+    "zz_Templates/2_Mechanics Gallery/Equipment/Template - Magic Item.md",
+    "zz_Templates/2_Mechanics Gallery/Equipment/Template - Vehicle.md",
+    "Przedmioty/Eliksiry/Potka życia.md",
     "zz_Templates/2_Mechanics Gallery/Equipment/Template - Mundane Item.md",
     "zz_Templates/2_Mechanics Gallery/Equipment/Template - Mundane Armor_Shield.md",
-    "Przedmioty/Eliksiry/Potka życia.md",
     "Questy/Aktywne/Quest Martwa Trójca.md",
     "Wydarzenia/Wydarzenia.md",
     "Karty postaci/Plejdosid.md",
@@ -439,22 +529,10 @@
     "zz_Templates/3_Markdown/Insert Rollable Table/Insert Rollable Table.md",
     "zz_Templates/3_Markdown/Folder Note Content List.md",
     "zz_Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out Boxes (Admonition).md",
-    "zz_Templates/2_Mechanics Gallery/Abilities/Template - Feat.md",
     "zz_Templates/2_Mechanics Gallery/2_Mechanics Gallery.md",
     "zz_Templates/2_Mechanics Gallery/Mechanics Gallery.md",
     "Postaci/Kapitan Zodge.md",
     "z_Mechanika/Zasady Gry.md",
-    "Postaci/Beenie.md",
-    "Postaci/Avery.md",
-    "Notatki z sesji/4sesja 27 września 2023.md",
-    "Jhasso.md",
-    "Postaci/Tarina.md",
-    "Postaci/Rivellan.md",
-    "Postaci/Kochanienka.md",
-    "Postaci/Keenie.md",
-    "Notatki z sesji/3sesja 6 września 2023.md",
-    "Untitled.md",
-    "Płonące Pięści.md",
     "Lokacje/Baldur's Gate/Sklep z fajerwerkami",
     "Przedmioty/Eliksiry",
     "Przedmioty",
