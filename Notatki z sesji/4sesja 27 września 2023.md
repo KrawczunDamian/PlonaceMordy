@@ -18,6 +18,7 @@ Jeniec jest mocno zakrwawionym człowiekiem.
 Podaje się za kupca, żebyśmy tylko tylko go uwolnili, ale tak naprawdę to kłamstwo. [[Jhasso Klim]] jest potencjalnie jakimś zwykłym łepkiem nielubianym przez rodzeństwo, po tym jak mówię mu że nie musi kłamać.
 
 Po odpięciu kajdanek jeńca, rzucają się na nas magicznie ożywione rękawice jako pułapka.
+Ubijamy magiczne twory, a Jhasso opuszcza lochy.
 
 Idziemy do kolejnego pokoju, 4 belki podtrzymują sufit ponad nadpalonym stole. 
 Postać w szacie bada ciało na stole.

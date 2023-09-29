@@ -11,51 +11,36 @@
             "id": "bd251dce42c7f60d",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Jhasso",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Jhasso.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Quest Martwa Trójca",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Questy/Aktywne/Quest Martwa Trójca.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questy/Aktywne/Quest Martwa Trójca.md",
+                "file": "Notatki z sesji/4sesja 27 września 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e5fd7e4ebb41d270",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "4sesja 27 września 2023",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/4sesja 27 września 2023.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/core-plugins-migration.json",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notatki z sesji/4sesja 27 września 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notatki z sesji/4sesja 27 września 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +208,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notatki z sesji/4sesja 27 września 2023.md"
+              }
             }
           },
           {
@@ -289,7 +278,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Notatki z sesji/4sesja 27 września 2023.md"
+              }
             }
           },
           {
@@ -374,9 +365,11 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "e5fd7e4ebb41d270",
+  "active": "bd251dce42c7f60d",
   "lastOpenFiles": [
+    "Jhasso.md",
     "Notatki z sesji/4sesja 27 września 2023.md",
+    "Questy/Aktywne/Quest Martwa Trójca.md",
     "Postaci/Avery.md",
     "Postaci/Tarina.md",
     "Postaci/Rivellan.md",
@@ -386,7 +379,6 @@
     "Postaci/Beenie.md",
     "Notatki z sesji/3sesja 6 września 2023.md",
     "Untitled.md",
-    "Questy/Aktywne/Quest Martwa Trójca.md",
     "Płonące Pięści.md",
     "Karty postaci/Plejdosid.md",
     "Lokacje/Baldur's Gate/Sklep z fajerwerkami/Sklep z fajerwerkami.md",
@@ -405,7 +397,6 @@
     "zz_Templates/2_Mechanics Gallery/Mechanics Gallery.md",
     "zz_Templates/2_Mechanics Gallery/Characters/Template - Background.md",
     "zz_Templates/2_Mechanics Gallery/Characters/Template - Archetype_Domain_Etc..md",
-    "zz_Templates/2_Mechanics Gallery/Characters/Template - General Characters Article.md",
     "Karty postaci",
     "Notatki z sesji",
     "Questy/Aktywne",
