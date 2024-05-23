@@ -1,0 +1,1 @@
+Wampirowaty syn Księżnej oddany Płomiennej Pięści. Miał demoniczną łamigłówkę i dał nam informacje o [[Tarcza Ukrytego Pana]].

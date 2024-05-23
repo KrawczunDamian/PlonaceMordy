@@ -1,5 +1,5 @@
 # Łaźnia
-Łaźnia należąca [[Księżna Vantharpoor|Księżnej Vantharpoor]]. Prawdopodobnie służy jako baza operacyjna naszego celu ([[Quest Martwa Trójca]]). 
+Łaźnia należąca [[Księżna Talamra Vantharpoor|Księżnej Vantharpoor]]. Prawdopodobnie służy jako baza operacyjna naszego celu ([[Quest Martwa Trójca]]). 
 Jest ona normalnie użytkowana, ale nie jest zbyt oblegana, mimo, że darmowa.
 
 Parterowy budynek z witrażami, glinanymi elementami, luksus.

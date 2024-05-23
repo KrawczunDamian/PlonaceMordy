@@ -1,0 +1,1 @@
+Amrik Vantharpoor - syn księżnej zajmujący się lichwą. Robił biznesy na zatopionym statku, reszta mojej ekipy miała z nim tam styczność.

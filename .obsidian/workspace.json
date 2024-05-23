@@ -4,254 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "cc1155055b2ce128",
+        "id": "f7391d49b255f5eb",
         "type": "tabs",
         "children": [
           {
-            "id": "bd251dce42c7f60d",
+            "id": "c0e4415494498438",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Gargauth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Gargauth.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":25},\"to\":{\"line\":0,\"ch\":25}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "3sesja 6 września 2023",
+                  "title": "Ekwipunek",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/3sesja 6 września 2023.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "4sesja 27 września 2023",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/4sesja 27 września 2023.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "3sesja 6 września 2023",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/3sesja 6 września 2023.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Płonące Pięści",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Płonące Pięści.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Quest Martwa Trójca",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Questy/Aktywne/Quest Martwa Trójca.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":11},\"to\":{\"line\":36,\"ch\":11}},\"scroll\":21.225490779979385}"
-                },
-                {
-                  "title": "Plejdosid",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Plejdosid.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Sklep z fajerwerkami",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Baldur's Gate/Sklep z fajerwerkami/Sklep z fajerwerkami.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":26},\"to\":{\"line\":1,\"ch\":26}}}"
-                },
-                {
-                  "title": "Avery",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Avery.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":18},\"to\":{\"line\":2,\"ch\":18}}}"
-                },
-                {
-                  "title": "Łaźnia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Baldur's Gate/Łaźnia/Łaźnia.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":42},\"to\":{\"line\":12,\"ch\":42}}}"
-                },
-                {
-                  "title": "Magiczne różności",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Baldur's Gate/Magiczne różności/Magiczne różności.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Posterunek Płonących Pięści",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Baldur's Gate/Posterunek Płonących Pięści/Posterunek Płonących Pięści.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":27},\"to\":{\"line\":1,\"ch\":27}}}"
-                },
-                {
-                  "title": "Brama bazyliszka",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Baldur's Gate/Brama bazyliszka.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Płonące Pięści",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizacje/Płonące Pięści.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":28},\"to\":{\"line\":2,\"ch\":28}}}"
-                },
-                {
-                  "title": "Beenie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Beenie.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":35},\"to\":{\"line\":1,\"ch\":35}}}"
-                },
-                {
-                  "title": "Kapitan Zodge",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Kapitan Zodge.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":28},\"to\":{\"line\":2,\"ch\":28}}}"
-                },
-                {
-                  "title": "Keenie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Keenie.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":37},\"to\":{\"line\":2,\"ch\":37}}}"
-                },
-                {
-                  "title": "Tarina",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Tarina.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":28},\"to\":{\"line\":2,\"ch\":28}}}"
-                },
-                {
-                  "title": "Kochanienka",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Kochanienka.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":13},\"to\":{\"line\":2,\"ch\":13}}}"
-                },
-                {
-                  "title": "Rivellan",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Rivellan.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":30},\"to\":{\"line\":2,\"ch\":30}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Potka życia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Przedmioty/Eliksiry/Potka życia.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":8},\"to\":{\"line\":2,\"ch\":8}}}"
-                },
-                {
-                  "title": "Wydarzenia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Wydarzenia/Wydarzenia.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Magiczne różności",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Baldur's Gate/Magiczne różności/Magiczne różności.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
-                },
-                {
-                  "title": "Rivellan",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Rivellan.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":65},\"to\":{\"line\":0,\"ch\":65}}}"
-                },
-                {
-                  "title": "Plejdosid",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Plejdosid.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
-                },
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Mechanics Gallery",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Mechanics Gallery.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":0},\"to\":{\"line\":78,\"ch\":0}},\"scroll\":78}"
-                },
-                {
-                  "title": "Template - Background",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Characters/Template - Background.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - Archetype_Domain_Etc.",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Characters/Template - Archetype_Domain_Etc..md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Template - General Characters Article",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Characters/Template - General Characters Article.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
-                },
-                {
-                  "title": "Template - Class",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/2_Mechanics Gallery/Characters/Template - Class.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
-                },
-                {
-                  "title": "Plejdosid",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Plejdosid.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "3sesja 6 września 2023",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/3sesja 6 września 2023.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":88},\"to\":{\"line\":4,\"ch\":88}}}"
-                },
-                {
-                  "title": "Łaźnia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Baldur's Gate/Łaźnia/Łaźnia.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":43},\"to\":{\"line\":12,\"ch\":43}}}"
-                },
-                {
-                  "title": "Kochanienka",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Kochanienka.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":60},\"to\":{\"line\":0,\"ch\":60}}}"
-                },
-                {
-                  "title": "Łaźnia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Baldur's Gate/Łaźnia/Łaźnia.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":58},\"to\":{\"line\":2,\"ch\":58}}}"
-                },
-                {
-                  "title": "Quest Martwa Trójca",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Questy/Aktywne/Quest Martwa Trójca.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Plejdosid/Ekwipunek.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":14},\"to\":{\"line\":19,\"ch\":14}},\"scroll\":1.433333396911621}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questy/Aktywne/Quest Martwa Trójca.md",
+                "file": "Notatki z sesji/13sesja 9 maja 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e5fd7e4ebb41d270",
+            "id": "8a782a65e967ddb7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -261,48 +51,77 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "3sesja 6 września 2023",
+                  "title": "Tavius Creeg",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/3sesja 6 września 2023.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Tavius Creeg.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Umiejki",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Plejdosid/Umiejki.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "4sesja 27 września 2023",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/4sesja 27 września 2023.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":63},\"to\":{\"line\":26,\"ch\":63}},\"scroll\":0.7538461685180664}"
-                },
-                {
-                  "title": "3sesja 6 września 2023",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/3sesja 6 września 2023.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Quest Martwa Trójca",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Questy/Aktywne/Quest Martwa Trójca.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":116},\"to\":{\"line\":53,\"ch\":116}},\"scroll\":41.949998219807945}"
-                },
-                {
-                  "title": "3sesja 6 września 2023",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/3sesja 6 września 2023.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":76},\"to\":{\"line\":7,\"ch\":76}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki z sesji/4sesja 27 września 2023.md",
+                "file": "Karty postaci/Plejdosid/Umiejki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20796e887a7cfb56",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karty postaci/Plejdosid/Ekwipunek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f4464633b815ee4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Umiejki",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Plejdosid/Umiejki.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karty postaci/Plejdosid/Plejdosid.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -349,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Karczma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -404,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki z sesji/4sesja 27 września 2023.md",
+                "file": "Notatki z sesji/13sesja 9 maja 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -412,27 +231,6 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "5cd046e0ff8ed054",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Notatki z sesji/4sesja 27 września 2023.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
               }
             }
           },
@@ -471,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki z sesji/4sesja 27 września 2023.md"
+                "file": "Notatki z sesji/13sesja 9 maja 2024.md"
               }
             }
           },
@@ -541,7 +339,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki z sesji/4sesja 27 września 2023.md"
+                "file": "Notatki z sesji/13sesja 9 maja 2024.md"
               }
             }
           },
@@ -565,22 +363,26 @@
           {
             "id": "2a8d312b3f5e83fc",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
-          }
-        ],
-        "currentTab": 8
-      },
-      {
-        "id": "714fb455ee1e50f6",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "5d50b95b874ea383",
+            "id": "b3aaaa695463317e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -592,15 +394,20 @@
               ]
             },
             "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notatki z sesji/13sesja 9 maja 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -618,44 +425,44 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "e5fd7e4ebb41d270",
+  "active": "c0e4415494498438",
   "lastOpenFiles": [
+    "Postaci/Gargauth.md",
+    "Przedmioty/Tarcza Ukrytego Pana.md",
+    "Notatki z sesji/13sesja 9 maja 2024.md",
     "Postaci/Avery.md",
-    "Postaci/Tarina.md",
-    "Postaci/Rivellan.md",
-    "Postaci/Kochanienka.md",
-    "Postaci/Keenie.md",
-    "Postaci/Kapitan Zodge.md",
-    "Postaci/Beenie.md",
-    "Notatki z sesji/3sesja 6 września 2023.md",
+    "Karty postaci/Plejdosid/Plejdosid.md",
+    "Karty postaci/Plejdosid/Umiejki.md",
+    "Karty postaci/Plejdosid/Ekwipunek.md",
+    "Notatki z sesji/12sesja 13 kwietnia 2024.md",
+    "Notatki z sesji/10sesja 15 lutego 2024.md",
+    "Postaci/Związane z demonicznymi zagadkami/Sylwira Sawikas.md",
+    "Postaci/Związane z demonicznymi zagadkami/Sylwira.md",
+    "Postaci/Związane z demonicznymi zagadkami",
+    "Notatki z sesji/11sesja 21 marca 2024.md",
+    "Untitled 1.md",
     "Untitled.md",
-    "Notatki z sesji/4sesja 27 września 2023.md",
-    "Questy/Aktywne/Quest Martwa Trójca.md",
-    "Płonące Pięści.md",
-    "Karty postaci/Plejdosid.md",
-    "Lokacje/Baldur's Gate/Sklep z fajerwerkami/Sklep z fajerwerkami.md",
-    "Lokacje/Baldur's Gate/Łaźnia/Łaźnia.md",
+    "Przedmioty/Magiczne/Bronie/Buława.md",
+    "Postaci/Płonące pięści/Kapitan Liara Porter.md",
+    "Postaci/Płonące pięści",
+    "Postaci/Henrik.md",
+    "Postaci/Tavius Creeg.md",
+    "Postaci/Raja.md",
+    "Notatki z sesji/8sesja 4 stycznia 2024.md",
+    "Notatki z sesji/5sesja 23 października 2023.md",
+    "Postaci/Satir Thion-Hunne.md",
+    "Postaci/Vantharpoorowie/Thurstfel Vantharpoor.md",
+    "Przedmioty/Magiczne/Bronie",
+    "Przedmioty/Magiczne",
+    "2024-02-15.md",
+    "Notatki z sesji/9sesja 18 stycznia 2024.md",
+    "Postaci/Tarina.md",
+    "Postaci/Vantharpoorowie",
+    "Karty postaci/Plejdosid",
     "Lokacje/Baldur's Gate/Sklep z fajerwerkami",
-    "Lokacje/Baldur's Gate/Magiczne różności/Magiczne różności.md",
-    "Lokacje/Baldur's Gate/Posterunek Płonących Pięści/Posterunek Płonących Pięści.md",
-    "Lokacje/Baldur's Gate/Brama bazyliszka.md",
-    "Organizacje/Płonące Pięści.md",
-    "Przedmioty/Eliksiry/Potka życia.md",
     "Przedmioty/Eliksiry",
-    "Wydarzenia/Wydarzenia.md",
     "Przedmioty",
     "Lokacje/Baldur's Gate/Magiczne różności",
-    "Karty postaci/Untitled.md",
-    "zz_Templates/2_Mechanics Gallery/Mechanics Gallery.md",
-    "zz_Templates/2_Mechanics Gallery/Characters/Template - Background.md",
-    "zz_Templates/2_Mechanics Gallery/Characters/Template - Archetype_Domain_Etc..md",
-    "zz_Templates/2_Mechanics Gallery/Characters/Template - General Characters Article.md",
-    "Karty postaci",
-    "Notatki z sesji",
-    "Questy/Aktywne",
-    "Questy",
-    "Lokacje/Baldur's Gate/Łaźnia",
-    "Lokacje/Elturel",
     "z_Foty/Hej Hejna fota.jpg",
     "z_Foty/Hej_Hejna fota 1.jpg",
     "z_Foty/Qa'isa Solnai fota.jpg",

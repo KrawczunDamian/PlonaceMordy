@@ -5,7 +5,7 @@ tags:
   - Category/Individual
 Przysposobienie: Neutralne Złowrogie Przyjazne
 Płeć: Mężczyzna Kobieta Inne
-Rasa: Aoq Delocjanin Elf Oświecony Elf Pierworodny Felpurr Goblin Ird Krasonlud Ladończyk Ork Raawjańczyk Skaven Xerabin Yordl Inne
+Rasa: Elf Człowiek Krasnolud
 Wiek: Dziecko Nastolatek Dorosły Starzec
 NastawienieDoNas: Wrogi Neutralny Sojusznik Przyjaciel
 Stan: Zdrowy Ranny Umierający Zaginiony Uznany za zmarłego Chory Zombie
@@ -78,7 +78,7 @@ dv.list(pg.Ekspertyza);
 ## Profil
 
 
-| Siła | Zręczność | Budowa | Inteligencja | Rzemiosło | Sztuka Przetrwania |
+| Siła | Zręczność | Budowa | Inteligencja | Wiedza | Charyzma |
 |---|---|---|---|---|---|
 | 10(+0) | 10(+0) | 10(+0) | 10(+0) | 10(+0) | 10(+0) |
 

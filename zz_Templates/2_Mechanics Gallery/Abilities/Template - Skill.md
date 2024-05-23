@@ -11,13 +11,13 @@ next:
   - Template - Spell
 RWtopicId: Topic_60
 ---
-# Template - Skill
-## Overview
+## Template - Skill
+### Overview
 Placeholder
 
-## Requirements and Restrictions
+### Requirements and Restrictions
 Placeholder
 
-## Effects
+### Effects
 Placeholder
 

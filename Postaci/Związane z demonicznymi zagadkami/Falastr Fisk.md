@@ -1,0 +1,1 @@
+Człowiek koło 50.

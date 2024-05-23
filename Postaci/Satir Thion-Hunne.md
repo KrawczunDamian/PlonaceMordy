@@ -1,0 +1,1 @@
+Arystokratka w wieku 70 lat strzegła Tarczy ze swoją rodziny.

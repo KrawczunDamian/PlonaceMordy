@@ -1,0 +1,1 @@
+Stolarz u którego kimamy po misji z Amrikiem i jego łodzią.

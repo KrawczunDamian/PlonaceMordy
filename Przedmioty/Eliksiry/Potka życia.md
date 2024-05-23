@@ -1,3 +1,3 @@
 Około 50 sztuk złota. 
-Lecz 1d8+2.
+Lecz 2d4+2.
 #eliksir
