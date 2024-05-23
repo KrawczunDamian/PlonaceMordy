@@ -5,7 +5,11 @@ tags:
   - Category/Individual
 Przysposobienie: Neutralne Złowrogie Przyjazne
 Płeć: Mężczyzna Kobieta Inne
+<<<<<<< HEAD
 Rasa: Elf Człowiek Krasnolud
+=======
+Rasa: 
+>>>>>>> origin/main
 Wiek: Dziecko Nastolatek Dorosły Starzec
 NastawienieDoNas: Wrogi Neutralny Sojusznik Przyjaciel
 Stan: Zdrowy Ranny Umierający Zaginiony Uznany za zmarłego Chory Zombie
