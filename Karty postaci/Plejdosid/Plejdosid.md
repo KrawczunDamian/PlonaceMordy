@@ -8,7 +8,7 @@ Płeć: Mężczyzna
 Rasa: Półelf
 Wiek: Dorosły
 NastawienieDoNas: Gracz
-Stan: 48/48 HP
+Stan: 47/57 HP
 Spell Sloty: 1/1 FIRST LVL SLOT
 CechyWyglądu: Schludny, zwyczajny, uzbrojony
 CechySpołeczne: 
@@ -20,7 +20,7 @@ Ekspertyza:
   - Performance
   - Persuasion
   - Stealth
-HIT DICE: 4/4 D10 AND 1/1 D8
+HIT DICE: 5/5 D10 AND 1/1 D8
 Physical-Traits: 
 Personality-Traits: 
 parent:
@@ -98,15 +98,15 @@ dv.list(pg.Ekspertyza);
 ## Profil
 
 1st level Warlock
-4th level Fighter
-Max hit dice: 1d8 / 4d10
-Current hit dice: 1d8 / 4d10
+5th level Fighter
+Max hit dice: 1d8 / 5d10
+Current hit dice: 1d8 / 5d10
 
-Proficiency: +2
-AC: 16
+Proficiency: +3
+AC: 16 + 2
 Initiative: +2
 Speed: 30 feet
-Passive wisdom (Perception): 13
+Passive wisdom (Perception): 14
 
 | Strength  |     |          |
 | --------- | --- | -------- |
@@ -170,7 +170,7 @@ Passive wisdom (Perception): 13
 **Components**: idk
 
 ### Effects
-+6 to hit (char + proficiency), 1d10 force damage
++7 to hit (char + proficiency), 1d10 force damage
 ## Green-Flame blade
 **Class**: Warlock
 
@@ -247,7 +247,7 @@ I can heal myself a little
 Bonus action, once per short rest
 
 ### Effects
-Heal yourself 1d10+1 
+Heal yourself 1d10+ Fighter lvl (5)
 ## HExblade's curse(bonus action)
 - [ ] 
 ### Overview
@@ -261,7 +261,7 @@ Once per short rest
 ### Effects
 Curse the target for 1 minute
 I add proficiency bonus to dmg, 19 AND 20 crits
-Killed target heals me for my warlock damage + charisma modifier
+Killed target heals me for my warlock level + charisma modifier (1+4 = 5)
 
 
 # Fight relevant

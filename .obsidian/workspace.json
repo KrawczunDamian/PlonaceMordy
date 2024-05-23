@@ -8,16 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0e4415494498438",
+            "id": "20796e887a7cfb56",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 1,
               "stack": [
                 {
-                  "title": "Gargauth",
+                  "title": "Tarcza Ukrytego Pana",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Gargauth.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":25},\"to\":{\"line\":0,\"ch\":25}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Przedmioty/Tarcza Ukrytego Pana.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":48},\"to\":{\"line\":2,\"ch\":48}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
@@ -27,21 +27,21 @@
                   "title": "Ekwipunek",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Plejdosid/Ekwipunek.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":14},\"to\":{\"line\":19,\"ch\":14}},\"scroll\":1.433333396911621}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":44},\"to\":{\"line\":7,\"ch\":44}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notatki z sesji/13sesja 9 maja 2024.md",
+                "file": "Notatki z sesji/14sesja 23 maja 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "660f3bf6ca2ff97f",
+            "id": "f61b4b6bb7a10b55",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -49,20 +49,36 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "conflict-files-obsidian-git",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "Przedmioty/Tarcza Ukrytego Pana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ce98970a5574ece",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karty postaci/Plejdosid/Ekwipunek.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -94,27 +110,6 @@
               "type": "markdown",
               "state": {
                 "file": "Karty postaci/Plejdosid/Umiejki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20796e887a7cfb56",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Karty postaci/Plejdosid/Ekwipunek.md",
                 "mode": "source",
                 "source": false
               }
@@ -250,6 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Przedmioty/Tarcza Ukrytego Pana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +290,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Przedmioty/Tarcza Ukrytego Pana.md"
+              }
             }
           },
           {
@@ -362,7 +360,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Przedmioty/Tarcza Ukrytego Pana.md"
+              }
             }
           },
           {
@@ -418,13 +418,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Przedmioty/Tarcza Ukrytego Pana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -446,16 +447,17 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "660f3bf6ca2ff97f",
+  "active": "f61b4b6bb7a10b55",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Karty postaci/Plejdosid/Ekwipunek.md",
+    "Karty postaci/Plejdosid/Umiejki.md",
+    "Karty postaci/Plejdosid/Plejdosid.md",
+    "Notatki z sesji/14sesja 23 maja 2024.md",
+    "Przedmioty/Tarcza Ukrytego Pana.md",
     "Notatki z sesji/13sesja 9 maja 2024.md",
     "Postaci/Gargauth.md",
-    "Przedmioty/Tarcza Ukrytego Pana.md",
+    "conflict-files-obsidian-git.md",
     "Postaci/Avery.md",
-    "Karty postaci/Plejdosid/Plejdosid.md",
-    "Karty postaci/Plejdosid/Umiejki.md",
-    "Karty postaci/Plejdosid/Ekwipunek.md",
     "Notatki z sesji/12sesja 13 kwietnia 2024.md",
     "Notatki z sesji/10sesja 15 lutego 2024.md",
     "Postaci/Związane z demonicznymi zagadkami/Sylwira Sawikas.md",
@@ -477,7 +479,6 @@
     "Przedmioty/Magiczne/Bronie",
     "Przedmioty/Magiczne",
     "2024-02-15.md",
-    "Notatki z sesji/9sesja 18 stycznia 2024.md",
     "Postaci/Vantharpoorowie",
     "Karty postaci/Plejdosid",
     "Lokacje/Baldur's Gate/Sklep z fajerwerkami",
