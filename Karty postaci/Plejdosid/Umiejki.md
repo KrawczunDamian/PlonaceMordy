@@ -33,7 +33,7 @@ Bonus action, once per short rest
 Heal yourself 1d10+ Fighter lvl (5)
 
 ## HExblade's curse(bonus action)
-- [ ] 
+- [x] 
 ### Overview
 I can curse my opponent
 
