@@ -8,7 +8,7 @@ Płeć: Mężczyzna
 Rasa: Półelf
 Wiek: Dorosły
 NastawienieDoNas: Gracz
-Stan: 47/57 HP
+Stan: 57/57 HP
 Spell Sloty: 1/1 FIRST LVL SLOT
 CechyWyglądu: Schludny, zwyczajny, uzbrojony
 CechySpołeczne: 
@@ -20,7 +20,7 @@ Ekspertyza:
   - Performance
   - Persuasion
   - Stealth
-HIT DICE: 5/5 D10 AND 1/1 D8
+HIT DICE: 3/5 D10 AND 1/1 D8
 Physical-Traits: 
 Personality-Traits: 
 parent:
@@ -99,11 +99,9 @@ dv.list(pg.Ekspertyza);
 
 1st level Warlock
 5th level Fighter
-Max hit dice: 1d8 / 5d10
-Current hit dice: 1d8 / 5d10
 
 Proficiency: +3
-AC: 16 + 2
+AC: 16 + 2 ([[Tarcza Ukrytego Pana]] ) + fire resistance
 Initiative: +2
 Speed: 30 feet
 Passive wisdom (Perception): 14

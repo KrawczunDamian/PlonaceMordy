@@ -2,7 +2,10 @@ Przedmiot który [[Księżna Talamra Vantharpoor]] ukradła rodzinie [[Satir Thi
 
 Tarcza posiada 3 ładunki czarów. Odnawiane rano.
 
-Można użyć 1, żeby rzucić kulę ognia, albo 2, żeby rzucić ścianę ognia.
+Można użyć 1, żeby rzucić kulę ognia, albo 2, żeby rzucić ścianę ognia (1 minuta). (Save DC 21)
 
-W dowolnym momencie, można aktywować aurę strachu na 6 metrów (tylko na wrogów). Przestraszona istota nie może się zbliżyć i ma disadvantage na coś tam.
+W dowolnym momencie, można aktywować aurę strachu na 6 metrów (tylko na wrogów). 
+Przestraszona istota nie może się zbliżyć i ma disadvantage attack rollsy i ability checki.
+1x per day (resets on dawn).
 
+Daje resista na fire.

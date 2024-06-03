@@ -6,10 +6,10 @@ PP:
 
 Noszone:
 TARCZA UKRYTEGO PANA
-
 Longsword +1: +8 do trafienia / 1d10 lub 1d8 + 5 slashing
+
 Łapa: +5 do trafienia / 4 bludgeon
-Light Crossbow: +7 do trafienia / 1d8 + 4 pierce (Przyczpepiona za pazuchą)
+Light Crossbow: +7 do trafienia / 1d8 + 4 pierce (Przyczepiona za pazuchą)
 Chain shirt (50 GP)
 Thief's tools
 Sztylet (ukryty w nogawce)
