@@ -19,7 +19,9 @@ amulet Merkula
 Kółko z kluczami do więzenia w lochach
 2 klucze księżnej
 
-1 fiolka oleju
+0 fiolka oleju
+fiolka z pozostałościami demona (w bag of holding)
+2 fiolki z pozostałościami piekelnych ogarów (ich krew płonie na powietrzu).
 Shrapnelowa bomba.
 
 2 małe mikstury HP 2d4 + 2
