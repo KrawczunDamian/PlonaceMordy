@@ -8,7 +8,7 @@ Płeć: Mężczyzna
 Rasa: Półelf
 Wiek: Dorosły
 NastawienieDoNas: Gracz
-Stan: 46/57 HP +5
+Stan: 47/57 HP
 Spell Sloty: 1/1 FIRST LVL SLOT
 CechyWyglądu: Schludny, zwyczajny, uzbrojony
 CechySpołeczne: 
@@ -20,7 +20,7 @@ Ekspertyza:
   - Performance
   - Persuasion
   - Stealth
-HIT DICE: 4/5 D10 AND 1/1 D8
+HIT DICE: 3/5 D10 AND 1/1 D8
 Physical-Traits: 
 Personality-Traits: 
 parent:
