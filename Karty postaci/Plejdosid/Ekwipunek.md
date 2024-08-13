@@ -18,11 +18,15 @@ W plecaku:
 amulet Merkula
 Kółko z kluczami do więzenia w lochach
 2 klucze księżnej
+Zęby Abishaja z jadem, język, kawałek skrzydła.
+
 
 0 fiolka oleju
 fiolka z pozostałościami demona (w bag of holding)
 2 fiolki z pozostałościami piekelnych ogarów (ich krew płonie na powietrzu).
 Shrapnelowa bomba.
+
+Bukłaki z wodą święconą times 4.
 
 2 małe mikstury HP 2d4 + 2
 3 duża mikstura HP 4d4 + 4

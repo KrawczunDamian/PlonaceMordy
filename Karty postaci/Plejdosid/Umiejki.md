@@ -9,7 +9,7 @@ Once per short rest
 ### Effects
 I gain additional action in a turn
 ## Fighting spirit (BONUS action)
-- [x] 
+- [ ] 
 - [ ] 
 - [ ] 
 ### Overview

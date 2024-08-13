@@ -10,6 +10,7 @@
           {
             "id": "c169cc737fe4163f",
             "type": "split",
+            "dimension": 54.745370370370374,
             "children": [
               {
                 "id": "ab1808248beefb3d",
@@ -109,7 +110,7 @@
                     }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 1
               },
               {
                 "id": "cb24e106b2b8510c",
@@ -144,72 +145,19 @@
           {
             "id": "f7391d49b255f5eb",
             "type": "tabs",
+            "dimension": 45.254629629629626,
             "children": [
               {
-                "id": "6ce98970a5574ece",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Diff View (app.json)",
-                      "icon": "git-pull-request",
-                      "state": "{\"type\":\"diff-view\",\"state\":{\"file\":\".obsidian/app.json\",\"staged\":false}}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Ekwipunek",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Plejdosid/Ekwipunek.md\",\"mode\":\"source\",\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notatki z sesji/15sesja 3 czerwca 2024.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f61b4b6bb7a10b55",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Przedmioty/Tarcza Ukrytego Pana.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f3e615bbd763821f",
+                "id": "b0ca3832a7d7cd60",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 1,
                   "stack": [
                     {
-                      "title": "15sesja 3 czerwca 2024",
+                      "title": "17 sesja 29 lipca 2024",
                       "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/15sesja 3 czerwca 2024.md\",\"mode\":\"source\",\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.916666666666668}"
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/17 sesja 29 lipca 2024.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":53},\"to\":{\"line\":13,\"ch\":53}},\"scroll\":1.9722222222222223}"
                     },
                     {
                       "state": "{}",
@@ -220,41 +168,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notatki z sesji/16sesja 9 lipca 2024.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "27770fff04a58168",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Release Notes 1.6.5",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.6.5\"}}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notatki z sesji/17 sesja 29 lipca 2024.md",
+                    "file": "Notatki z sesji/18 sesja 12 sierpnia 2024.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "horizontal"
@@ -334,7 +254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218.5
   },
   "right": {
     "id": "4de741d3ab701789",
@@ -359,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki z sesji/17 sesja 29 lipca 2024.md",
+                "file": "Karty postaci/Plejdosid/Umiejki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notatki z sesji/17 sesja 29 lipca 2024.md"
+                "file": "Karty postaci/Plejdosid/Umiejki.md"
               }
             }
           },
@@ -475,7 +395,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notatki z sesji/17 sesja 29 lipca 2024.md"
+                "file": "Karty postaci/Plejdosid/Umiejki.md"
               }
             }
           },
@@ -532,7 +452,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki z sesji/17 sesja 29 lipca 2024.md",
+                "file": "Karty postaci/Plejdosid/Umiejki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -543,7 +463,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -561,15 +481,16 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "27770fff04a58168",
+  "active": "8a782a65e967ddb7",
   "lastOpenFiles": [
-    "Przedmioty/Tarcza Ukrytego Pana.md",
     "Karty postaci/Plejdosid/Plejdosid.md",
     "Karty postaci/Plejdosid/Umiejki.md",
+    "Notatki z sesji/18 sesja 12 sierpnia 2024.md",
+    "Przedmioty/Tarcza Ukrytego Pana.md",
+    "Karty postaci/Plejdosid/Ekwipunek.md",
     "Notatki z sesji/17 sesja 29 lipca 2024.md",
     "Notatki z sesji/16sesja 9 lipca 2024.md",
     "Notatki z sesji/15sesja 3 czerwca 2024.md",
-    "Karty postaci/Plejdosid/Ekwipunek.md",
     "Notatki z sesji/14sesja 23 maja 2024.md",
     "Notatki z sesji/13sesja 9 maja 2024.md",
     "Postaci/Gargauth.md",
@@ -590,7 +511,6 @@
     "Postaci/Tavius Creeg.md",
     "Postaci/Raja.md",
     "Notatki z sesji/8sesja 4 stycznia 2024.md",
-    "Notatki z sesji/5sesja 23 października 2023.md",
     "Przedmioty/Magiczne/Bronie",
     "Przedmioty/Magiczne",
     "Postaci/Vantharpoorowie",
