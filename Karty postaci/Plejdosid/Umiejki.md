@@ -1,5 +1,5 @@
 ## Action surge
-- [ ] 
+- [x] 
 ### Overview
 I can do more in a round than a normal person
 
@@ -9,7 +9,7 @@ Once per short rest
 ### Effects
 I gain additional action in a turn
 ## Fighting spirit (BONUS action)
-- [ ] 
+- [x] 
 - [ ] 
 - [ ] 
 ### Overview
@@ -22,7 +22,7 @@ I'm a samurai and I'm slashing very precisely
 Advantage on all attack rolls for the turn as a bonus action
 
 ## Second wind 
-- [ ] 
+- [x] 
 ### Overview
 I can heal myself a little
 
@@ -33,7 +33,7 @@ Bonus action, once per short rest
 Heal yourself 1d10+ Fighter lvl (5)
 
 ## HExblade's curse(bonus action)
-- [ ] 
+- [x] 
 ### Overview
 I can curse my opponent
 

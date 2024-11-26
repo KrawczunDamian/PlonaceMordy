@@ -22,7 +22,7 @@ Może nie bez żadnych problemów, ale po pokonaniu 8smiu diabłów schodzimy z 
 
 W poszukiwaniu miejsca na odpoczynek trafiamy na Wroka, diabła z kryzysem wieku średniego, który chce gadać zamiast walczyć. Zastanawia się nad sensem tego wszystkiego. Wciąga nas w dyskusje.
 
-Książe Ravengaard, Ulder, broni się w Wysokim Dworze i jest ostatnim bastionem ludzi w Elturel.
+Książe Ravengaard Ulder, broni się w Wysokim Dworze i jest ostatnim bastionem ludzi w Elturel.
 
 Demony wychodzą gęściej z rzeki styks, więc silniejsze diabły są na dole, żeby je powstrzymywać.
 

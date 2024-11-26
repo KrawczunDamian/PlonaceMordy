@@ -6,7 +6,7 @@ PP:
 
 Noszone:
 TARCZA UKRYTEGO PANA
-Longsword +1: +8 do trafienia / 1d10 lub 1d8 + 5 slashing
+Longsword (dwa, jeden po Raveengardzie) +1: +8 do trafienia / 1d10 lub 1d8 + 5 slashing
 
 Łapa: +5 do trafienia / 4 bludgeon
 Light Crossbow: +7 do trafienia / 1d8 + 4 pierce (Przyczepiona za pazuchą)
@@ -21,10 +21,10 @@ Kółko z kluczami do więzenia w lochach
 Zęby Abishaja z jadem, język, kawałek skrzydła.
 
 
-0 fiolka oleju
+1 fiolka oleju
+Bag of holding
 fiolka z pozostałościami demona (w bag of holding)
 2 fiolki z pozostałościami piekelnych ogarów (ich krew płonie na powietrzu).
-Shrapnelowa bomba.
 
 Bukłaki z wodą święconą times 4.
 

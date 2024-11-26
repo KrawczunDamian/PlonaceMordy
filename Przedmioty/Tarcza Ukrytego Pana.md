@@ -12,8 +12,8 @@ Wall of fire: 120 feet range. 1 foot thick, 60 feet long, 20 feet high. Or 20 fe
 Chosen side of the wall deals 5d8 fire damage (or half on a save) to each creature that ends its turn within 10 feet. A creature takes the same damage the first time it enters the wall from damaging side.
 
 W dowolnym momencie, można aktywować aurę strachu na 6 metrów (tylko na wrogów). 
-Range 20 feet. DC 18 wisdom saving throw.
-Przestraszona istota nie może się zbliżyć i ma disadvantage attack rollsy i ability checki. Strach trwa jedną turę.
-1x per day (resets on dawn).
+Range 20 feet. DC 18 wisdom saving throw. Na osoby zaczynające w zasięgu.
+Przestraszona istota nie może się zbliżyć i ma disadvantage attack rollsy i ability checki. Aura trwa 1 minutę.
+0/1 per day (resets on dawn).
 
 Daje resista na fire.
