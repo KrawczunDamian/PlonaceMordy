@@ -8,163 +8,47 @@
         "type": "split",
         "children": [
           {
-            "id": "d3cc7c8c5893d3b9",
-            "type": "split",
-            "dimension": 45.1395572666025,
+            "id": "9f033c56aa0df342",
+            "type": "tabs",
+            "dimension": 44.84679665738162,
             "children": [
               {
-                "id": "9f033c56aa0df342",
-                "type": "tabs",
-                "dimension": 53.06372549019608,
-                "children": [
-                  {
-                    "id": "6bc383c0298b24c1",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        },
-                        {
-                          "title": "17 sesja 29 lipca 2024",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/17 sesja 29 lipca 2024.md\",\"mode\":\"source\",\"source\":false}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.3138888676961262}"
-                        },
-                        {
-                          "title": "18 sesja 12 sierpnia 2024",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/18 sesja 12 sierpnia 2024.md\",\"mode\":\"source\",\"source\":false}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.6999994913737}"
-                        },
-                        {
-                          "title": "20 sesja 25 listopada 2024",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/20 sesja 25 listopada 2024.md\",\"mode\":\"source\",\"source\":false}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":189},\"to\":{\"line\":33,\"ch\":189}},\"scroll\":33.2}"
-                        }
-                      ]
+                "id": "55fa0028d6f1d1e8",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 1,
+                  "stack": [
+                    {
+                      "title": "Mortlok Vantharpoor",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Vantharpoorowie/Mortlok Vantharpoor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mortlok Vantharpoor\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                     },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Notatki z sesji/20 sesja 25 listopada 2024.md",
-                        "mode": "source",
-                        "source": false
-                      }
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Ekwipunek",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Plejdosid/Ekwipunek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ekwipunek\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":81},\"to\":{\"line\":7,\"ch\":81}},\"scroll\":0}"
                     }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notatki z sesji/21 sesja 13 stycznia 2025.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  {
-                    "id": "1f4464633b815ee4",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        },
-                        {
-                          "title": "15sesja 3 czerwca 2024",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/15sesja 3 czerwca 2024.md\",\"mode\":\"source\",\"source\":false}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":7},\"to\":{\"line\":24,\"ch\":7}},\"scroll\":21.033335367838543}"
-                        },
-                        {
-                          "title": "18 sesja 12 sierpnia 2024",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/18 sesja 12 sierpnia 2024.md\",\"mode\":\"source\",\"source\":false}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":71}},\"scroll\":14.15000025431315}"
-                        },
-                        {
-                          "title": "15sesja 3 czerwca 2024",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/15sesja 3 czerwca 2024.md\",\"mode\":\"source\",\"source\":false}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":7},\"to\":{\"line\":24,\"ch\":7}},\"scroll\":22.686666870117186}"
-                        },
-                        {
-                          "title": "Książe Ulder Raveengard",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Płonące pięści/Książe Ulder Raveengard.md\",\"mode\":\"source\",\"source\":false}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}},\"scroll\":0}"
-                        },
-                        {
-                          "title": "15sesja 3 czerwca 2024",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/15sesja 3 czerwca 2024.md\",\"mode\":\"source\",\"source\":false}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":23},\"to\":{\"line\":24,\"ch\":7}},\"scroll\":20.455556233723957}"
-                        },
-                        {
-                          "title": "20 sesja 25 listopada 2024",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notatki z sesji/20 sesja 25 listopada 2024.md\",\"mode\":\"source\",\"source\":false}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":4.541666666666667}"
-                        },
-                        {
-                          "title": "Plejdosid",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Plejdosid/Plejdosid.md\",\"mode\":\"source\",\"source\":false}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":0},\"to\":{\"line\":51,\"ch\":0}}}"
-                        },
-                        {
-                          "title": "Umiejki",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Plejdosid/Umiejki.md\",\"mode\":\"source\",\"source\":false}}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Postaci/Płonące pięści/Książe Ulder Raveengard.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
+                  "icon": "lucide-file",
+                  "title": "21 sesja 13 stycznia 2025"
+                }
               },
               {
-                "id": "3b69514354576aca",
-                "type": "tabs",
-                "dimension": 46.93627450980392,
-                "children": [
-                  {
-                    "id": "d6aa2f3bb611d9f9",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Przedmioty/Tarcza Ukrytego Pana.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
-          },
-          {
-            "id": "cb24e106b2b8510c",
-            "type": "tabs",
-            "dimension": 54.8604427333975,
-            "children": [
-              {
-                "id": "fd05f76b7b7ad9b9",
+                "id": "b4474711fd8b8c8d",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -178,27 +62,66 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Karty postaci/Plejdosid/Umiejki.md",
+                    "file": "Przedmioty/Tarcza Ukrytego Pana.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tarcza Ukrytego Pana"
                 }
-              },
+              }
+            ]
+          },
+          {
+            "id": "cb24e106b2b8510c",
+            "type": "tabs",
+            "dimension": 55.15320334261838,
+            "children": [
               {
-                "id": "ed5f0af986b4ed82",
+                "id": "fd05f76b7b7ad9b9",
                 "type": "leaf",
                 "pane-relief:history-v1": {
-                  "pos": 1,
+                  "pos": 0,
                   "stack": [
-                    {
-                      "title": "Beenie",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Beenie.md\",\"mode\":\"source\",\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                    },
                     {
                       "state": "{}",
                       "eState": "{}"
+                    },
+                    {
+                      "title": "Mortlok Vantharpoor",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Vantharpoorowie/Mortlok Vantharpoor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mortlok Vantharpoor\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Thurstfel Vantharpoor",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Vantharpoorowie/Thurstfel Vantharpoor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Thurstfel Vantharpoor\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Mortlok Vantharpoor",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Vantharpoorowie/Mortlok Vantharpoor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mortlok Vantharpoor\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Amrik Vantharpoor",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Vantharpoorowie/Amrik Vantharpoor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Amrik Vantharpoor\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "Plejdosid",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Plejdosid/Plejdosid.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Plejdosid\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":278,\"ch\":157},\"to\":{\"line\":278,\"ch\":157}},\"scroll\":265.9611116250356}"
+                    },
+                    {
+                      "title": "Umiejki",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/Plejdosid/Umiejki.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Umiejki\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":43.90833552678426}"
                     }
                   ]
                 },
@@ -208,11 +131,13 @@
                     "file": "Karty postaci/Plejdosid/Plejdosid.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Plejdosid"
                 }
               },
               {
-                "id": "55fa0028d6f1d1e8",
+                "id": "4ff6acf184929ab6",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -229,11 +154,13 @@
                     "file": "Karty postaci/Plejdosid/Ekwipunek.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ekwipunek"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -265,7 +192,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -289,7 +218,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -306,7 +237,9 @@
             },
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -338,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karty postaci/Plejdosid/Ekwipunek.md",
+                "file": "Notatki z sesji/21 sesja 13 stycznia 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -346,7 +279,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 21 sesja 13 stycznia 2025"
             }
           },
           {
@@ -366,7 +301,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -384,8 +321,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Karty postaci/Plejdosid/Ekwipunek.md"
-              }
+                "file": "Notatki z sesji/21 sesja 13 stycznia 2025.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 21 sesja 13 stycznia 2025"
             }
           },
           {
@@ -402,7 +341,9 @@
             },
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dice-roller-icon",
+              "title": "Dice Roller"
             }
           },
           {
@@ -419,7 +360,9 @@
             },
             "state": {
               "type": "FANTASY_CALENDAR",
-              "state": {}
+              "state": {},
+              "icon": "FANTASY_CALENDAR",
+              "title": "Fantasy Calendar"
             }
           },
           {
@@ -436,7 +379,9 @@
             },
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -454,8 +399,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Karty postaci/Plejdosid/Ekwipunek.md"
-              }
+                "file": "Notatki z sesji/21 sesja 13 stycznia 2025.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 21 sesja 13 stycznia 2025"
             }
           },
           {
@@ -472,7 +419,9 @@
             },
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -493,7 +442,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -511,10 +462,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Karty postaci/Plejdosid/Ekwipunek.md",
+                "file": "Notatki z sesji/21 sesja 13 stycznia 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 21 sesja 13 stycznia 2025"
             }
           }
         ],
@@ -522,7 +475,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -542,14 +495,19 @@
   },
   "active": "55fa0028d6f1d1e8",
   "lastOpenFiles": [
-    "Karty postaci/Plejdosid/Umiejki.md",
-    "Karty postaci/Plejdosid/Plejdosid.md",
-    "Karty postaci/Plejdosid/Ekwipunek.md",
-    "Notatki z sesji/20 sesja 25 listopada 2024.md",
     "Przedmioty/Tarcza Ukrytego Pana.md",
+    "Notatki z sesji/21 sesja 13 stycznia 2025.md",
+    "Karty postaci/Plejdosid/Ekwipunek.md",
+    "Karty postaci/Plejdosid/Plejdosid.md",
+    "Notatki z sesji/12sesja 13 kwietnia 2024.md",
+    "Postaci/Vantharpoorowie/Mortlok Vantharpoor.md",
+    "Postaci/Vantharpoorowie/Thurstfel Vantharpoor.md",
+    "Postaci/Vantharpoorowie/Amrik Vantharpoor.md",
+    "Karty postaci/Plejdosid/Umiejki.md",
+    "Notatki z sesji/20 sesja 25 listopada 2024.md",
+    "Postaci/Płonące pięści/Książe Ulder Raveengard.md",
     "Notatki z sesji/17 sesja 29 lipca 2024.md",
     "Notatki z sesji/18 sesja 12 sierpnia 2024.md",
-    "Postaci/Płonące pięści/Książe Ulder Raveengard.md",
     "Postaci/Beenie.md",
     "Postaci/Gargauth.md",
     "Postaci/Keenie.md",
@@ -561,14 +519,9 @@
     "Notatki z sesji/13sesja 9 maja 2024.md",
     "conflict-files-obsidian-git.md",
     "Postaci/Avery.md",
-    "Notatki z sesji/12sesja 13 kwietnia 2024.md",
     "Notatki z sesji/10sesja 15 lutego 2024.md",
     "Postaci/Związane z demonicznymi zagadkami/Sylwira Sawikas.md",
-    "Postaci/Związane z demonicznymi zagadkami/Sylwira.md",
     "Postaci/Związane z demonicznymi zagadkami",
-    "Notatki z sesji/11sesja 21 marca 2024.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "Postaci/Płonące pięści",
     "Przedmioty/Magiczne/Bronie",
     "Przedmioty/Magiczne",

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Lokacje OR path:Postaci  ",
+  "search": "mortlok",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224421,
-  "close": false
+  "scale": 0.40672186374419406,
+  "close": true
 }

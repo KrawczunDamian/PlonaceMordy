@@ -14,6 +14,6 @@ Chosen side of the wall deals 5d8 fire damage (or half on a save) to each creatu
 W dowolnym momencie, można aktywować aurę strachu na 6 metrów (tylko na wrogów). 
 Range 20 feet. DC 18 wisdom saving throw. Na osoby zaczynające w zasięgu.
 Przestraszona istota nie może się zbliżyć i ma disadvantage attack rollsy i ability checki. Aura trwa 1 minutę.
-0/1 per day (resets on dawn).
+1/1 per day (resets on dawn).
 
 Daje resista na fire.

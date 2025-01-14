@@ -34,3 +34,4 @@ Wracamy z księciem do katedry. Wszyscy się na niego rzucają i starają się u
 Okazuje się, że trzeba będzie odprawić rytuał, którym na pewno zainteresują się diabły. Opracowujemy plan potencjalnej obrony przed nimi wraz z mieszkańcamy Elturel i gotujemy się do bitwy.
 
 Na zabunkrowaną kaplicę napierają chochliki, piekelne ogary, Meregony, Narzugon.
+

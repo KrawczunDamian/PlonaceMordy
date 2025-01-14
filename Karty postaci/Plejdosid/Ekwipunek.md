@@ -5,6 +5,10 @@ GP: 349 (w banku)
 PP: 
 
 Noszone:
+Greatsword z paktu - +7 do trafienia / 2d6 + 4 slashing (+8d8 i slow do 0 move'a za spell slot )
+Z GreatWeaponMaster -5 do trafienia +10 do dmgu
+Po zabiciu kogoś dodatkowy attack jako bonus action
+
 TARCZA UKRYTEGO PANA
 Longsword (dwa, jeden po Raveengardzie) +1: +8 do trafienia / 1d10 lub 1d8 + 5 slashing
 
@@ -29,7 +33,7 @@ fiolka z pozostałościami demona (w bag of holding)
 Bukłaki z wodą święconą times 4.
 
 2 małe mikstury HP 2d4 + 2
-3 duża mikstura HP 4d4 + 4
+5 duża mikstura HP 4d4 + 4
 
 Mapa piekła od Sylwiry.
 
